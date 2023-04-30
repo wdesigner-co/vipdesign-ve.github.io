@@ -19,8 +19,8 @@ contactButton.addEventListener("click", function() {
 
 // Compartir en RRSS
 function share() {
-  var url = "https://vipdesign-ve.github.io/"; // Reemplaza con la URL de tu profile card
-  var title = "Oriana Villanueva - @vipdesign.ve"; // Reemplaza con el título de tu profile card
+  var url = "https://wdesigner-co.github.io/vipdesign-ve.github.io/"; // Reemplaza con la URL de tu profile card
+  var title = "Visita el Perfil de Oriana Villanueva - @vipdesign.ve"; // Reemplaza con el título de tu profile card
   var hashtags = "profilecard"; // Reemplaza con los hashtags que desees incluir
   
   var twitter_url = "https://twitter.com/intent/tweet?url=" + encodeURIComponent(url) + "&text=" + encodeURIComponent(title + " #" + hashtags);
