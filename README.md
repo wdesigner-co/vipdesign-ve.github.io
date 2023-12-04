@@ -1,3 +1,7 @@
+# Alex Col - WDesigner
+
+![Portada](/img/20231015_1357122.gif)
+
 # Landing Page de VIP DESIGN VENEZUELA
 
 Este proyecto es una landing page sobre el servicio de identidad visual que presta la empresa VIP DESIGN Venezuela, una agencia de diseño gráfico especializada en branding, logotipos, papelería y redes sociales. Esta página web está pensada para captar la atención de potenciales clientes y mostrarles los beneficios de contratar a VIP DESIGN Venezuela.
