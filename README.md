@@ -1,6 +1,6 @@
 # Alex Col - WDesigner
 
-![Portada](/img/20231015_1357122.gif)
+![Portada](https://github.com/wdesigner-co/wdesigner-co/blob/main/img/20231015_1357122.gif)
 
 # Landing Page de VIP DESIGN VENEZUELA
 
