@@ -25,9 +25,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
   // Enviar el correo electrónico
   if (mail($destinatario, $asunto, $mensaje, $cabeceras)) {
-    echo "El correo se ha enviado correctamente";
+    // Mostrar la ventana modal de aviso exitoso
+    echo "<script>showModal();</script>";
   } else {
     echo "Hubo un error al enviar el correo";
   }
 }
 ?>
+
