@@ -36,13 +36,13 @@ Para usar la página web, solo tienes que hacer scroll para ver las diferentes s
 
 Aquí puedes ver un ejemplo de cómo se ve la página web:
 
-![Captura de pantalla de la página web]
+![Captura de pantalla de la página web](https://github.com/wdesigner-co/vipdesign-ve.github.io/blob/main/img/captureVipdesign.jpg)
 
 ## Preview
 
 Si quieres ver cómo se ve la página web sin tener que instalar el proyecto, puedes hacer clic en el siguiente enlace:
 
-[Preview de la página web]
+[Preview de la página web](https://wdesigner-co.github.io/vipdesign-ve.github.io/#)
 
 ## Créditos
 
