@@ -50,7 +50,7 @@ Este proyecto ha sido creado por [wdesigner-co], un desarrollador web apasionado
 
 Las imágenes, los iconos, las fuentes y los colores que se han usado en este proyecto provienen de las siguientes fuentes:
 
-- Imágenes: [Unsplash]
+- Imágenes: [vipdesign.ve](https://instagram.com/vipdesign.ve?igshid=MTNiYzNiMzkwZA==)
 - Iconos: [Font Awesome]
 - Fuentes: [Google Fonts]
 - Colores: [Coolors]
