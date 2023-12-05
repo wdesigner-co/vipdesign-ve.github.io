@@ -24,8 +24,37 @@ function subirWhatsapp(){
     }
 }
 
+// Para modal en Github Pages 
 
-// ventana modal de registro 
+var modal = document.getElementById("success-modal");
+var btn = document.getElementById("submit-btn");
+var span = document.getElementsByClassName("close")[0];
+
+function showModal() {
+  modal.style.display = "block";
+}
+
+function hideModal() {
+  modal.style.display = "none";
+}
+
+btn.onclick = function() {
+  showModal();
+}
+    
+span.onclick = function() {
+  hideModal();
+}
+
+window.onclick = function(event) {
+  if (event.target == modal) {
+    hideModal();
+  }
+}
+
+
+
+/* // ventana modal de registro 
 
 // Obtener la ventana modal por su id
 var modal = document.getElementById("success-modal");
@@ -53,7 +82,7 @@ window.onclick = function(event) {
   if (event.target == modal) {
     hideModal();
   }
-}
+} */
 
 
 
