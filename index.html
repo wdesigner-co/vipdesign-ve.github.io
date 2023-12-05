@@ -293,7 +293,15 @@
       <br>
       
       <div class="formulario">
-        <form id="contact-form" action="registrarmail.php" method="post">
+        <form id="contact-form" method="post">
+          <label for="nombre"></label>
+          <input id="nombre" type="text" placeholder="Ingrese su Nombre" name="nombre" required>
+          
+          <label for="correo"></label>
+          <input id="correo" type="email" placeholder="Ingrese su E-mail" name="correo" required>
+          
+          <input id="submit-btn" type="button" value="Registrarse" class="registrar"> </form>
+        <!--form id="contact-form" action="registrarmail.php" method="post">
           
           <label for="nombre"></label>
           <input id="nombre" type="text" placeholder="Ingrese su Nombre" name="nombre" required>
@@ -302,7 +310,7 @@
           <input id="correo" type="email" placeholder="Ingrese su E-mail" name="correo" required>
           
           <input id="submit-btn" type="submit" value="Registrarse" class="registrar">
-        </form>
+    </form-->
 
         <div id="success-modal" class="modal hidden">
           <div class="modal-content">
