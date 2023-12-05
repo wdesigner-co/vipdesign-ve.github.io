@@ -25,32 +25,51 @@ function subirWhatsapp(){
 }
 
 // Para modal en Github Pages 
+// Script para ventana modal 
 
+// Obtener valores pornsu id
 var modal = document.getElementById("success-modal");
 var btn = document.getElementById("submit-btn");
 var span = document.getElementsByClassName("close")[0];
 
 function showModal() {
+  // Mostrar la ventana modal
   modal.style.display = "block";
+  // Limpiar el formulario después de 3 segundos
+  setTimeout(clearForm, 3000);
 }
 
+// función para ocultar la ventana modal
 function hideModal() {
   modal.style.display = "none";
 }
 
+// Función de mostrar la ventana modal 
 btn.onclick = function() {
   showModal();
 }
-    
+
+// Funciones para ocultar ventana modal
+// Evento click boton cerrar
 span.onclick = function() {
   hideModal();
 }
-
-window.onclick = function(event) {
+// Evento click fuera de la ventana modal
+  window.onclick = function(event) {
   if (event.target == modal) {
     hideModal();
   }
 }
+// Limpiar formulario
+function clearForm() {
+  var nombre = document.getElementById("nombre");
+  var correo = document.getElementById("correo");
+  nombre.value = "";
+  correo.value = "";
+}
+
+
+
 
 
 
