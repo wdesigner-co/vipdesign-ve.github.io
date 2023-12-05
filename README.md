@@ -38,6 +38,8 @@ Aquí puedes ver un ejemplo de cómo se ve la página web:
 
 ![Captura de pantalla de la página web](https://github.com/wdesigner-co/vipdesign-ve.github.io/blob/main/img/captureVipdesign.jpg)
 
+Nota: La sección de formulario de registro de mail sólo funciona como ejemplo didáctico, ya que en Github Pages no permite usar o hacer solicitudes con archivos php, por ello se activa el modal como simple funcion con javascript.
+
 ## Preview
 
 Si quieres ver cómo se ve la página web sin tener que instalar el proyecto, puedes hacer clic en el siguiente enlace:
