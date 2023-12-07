@@ -55,7 +55,7 @@ Las imágenes, los iconos, las fuentes y los colores que se han usado en este pr
 - Imágenes: [vipdesign.ve](https://instagram.com/vipdesign.ve?igshid=MTNiYzNiMzkwZA==)
 - Iconos: [Font Awesome]
 - Fuentes: [Google Fonts]
-- Colores: [Coolors]
+- Colores: [Vipdesign]
 
 ## Licencia
 
