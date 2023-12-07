@@ -36,8 +36,8 @@
     <div class="container">
       <div id="logo">
         <a href="#">
-          <img src="img/logos/logo-vip300px.png" alt="logo vip"></a>
-        <h2><u>VIP</u> <u>DESIGN</u></h2>
+          <img src="img/logos/logo-vip-letras_black.png" alt="logo vip"></a>
+        <h2>VIP DESIGN</h2>
       </div>
       <div class="shop">
         <a href="https://wa.link/7dk0z8"><i class="fa-brands fa-whatsapp"></i>
@@ -78,7 +78,7 @@
     <!--Servicios-->
     <section class="cont-section1">
       <div class="section1">
-        <div class="text-section1" id="narro1">
+        <div class="text-section1" id="intro">
           <img src="img/contenido/contenido01.png" alt="contenido01" class="img-section1">
         </div>
         
@@ -124,7 +124,7 @@
   <section id="proyectos" class="cont-proyectos">
     <div class="proyectos">
       <div class="text-proyectos">
-        <h2>Contruimos<font bg color="#990099"> tu marca</font> , generando diseños y soluciones profesionales.</h2>
+        <h2>Contruimos<font bg color="#660099"> tu marca</font> , generando diseños y soluciones profesionales.</h2>
       </div>
       
       <div class="text-proyectos">
@@ -240,7 +240,7 @@
   <section id="packs"  class="cont-proyectos">
     <div class="proyectos">
       <div class="text-proyectos">
-        <h2>Escoge el <font bg color="#990099"> paquete</font>  que más se adapte a lo que necesitas.</h2>
+        <h2>Escoge el <font bg color="#660099"> paquete</font>  que más se adapte a lo que necesitas.</h2>
       </div>
       
       <div class="text-proyectos">
@@ -293,35 +293,36 @@
       <br>
       
       <div class="formulario">
-        <form id="contact-form" >
-          <label for="nombre"></label>
-          <input id="nombre" type="text" placeholder="Ingrese su Nombre" name="nombre" required>
-          
-          <label for="correo"></label>
-          <input id="correo" type="email" placeholder="Ingrese su E-mail" name="correo" required>
-          
-          <input id="submit-btn" type="button" value="Registrarse" class="registrar"> </form>
-        <!--form id="contact-form" action="registrarmail.php" method="post">
-          
-          <label for="nombre"></label>
-          <input id="nombre" type="text" placeholder="Ingrese su Nombre" name="nombre" required>
-          
-          <label for="correo"></label>
-          <input id="correo" type="email" placeholder="Ingrese su E-mail" name="correo" required>
-          
-          <input id="submit-btn" type="submit" value="Registrarse" class="registrar">
-    </form-->
+       
+        <form id="contact-form" method="post">
+        <!--form id="contact-form" action="registrarmail.php" method="post"--> <!-- Esta linea de código debe ser activada para enviar el archivo php -->
 
-        <div id="success-modal" class="modal hidden">
-          <div class="modal-content">
-            <span class="close">x</span>
-            <h3>Su registro ha sido exitoso</h3>
-            <p>Lo contactaremos a la brevedad posible</p>
-          </div>
-        </div>
-        
+          
+          <label for="nombre"></label>
+          <input id="nombre" type="text" placeholder="Ingrese su Nombre" name="nombre" required>
+          
+          <label for="correo"></label>
+          <input id="correo" type="email" placeholder="Ingrese su E-mail" name="correo" required>
+          
+          <input id="submit-btn" type="button" value="Registrarse" class="registrar">
+
+          
+          <!--input id="submit-btn" type="submit" value="Registrarse" class="registrar"> Esta linea de codigo se activa para enviar rl archivo php -->
+        </form>
+
+      </div>
+
+    </div>
+    
+    <div id="success-modal" class="modal ">
+      
+      <div class="modal-content">
+        <span class="close">x</span>
+        <h3>Su registro ha sido exitoso</h3>
+        <p>Lo contactaremos a la brevedad posible</p>
       </div>
     </div>
+    
   </section>
   
   </main>
@@ -335,7 +336,7 @@
       </div>
       
       <div class="mail-address">
-        <a href="mailto: vipdesign.venezuela@gmail.com"><i class="fa-solid fa-envelope">  mail vipdesign.ve</i></a>
+        <a href="mailto: vipdesign.venezuela@gmail.com"><i class="fa-solid fa-envelope"></i> e-mail vipdesign.ve</a>
         <p>Guatire, Venezuela</p>
       </div>
   
