@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
+
 /* Estilos Generales */
 *{
   margin: 0px;
@@ -172,7 +173,7 @@ header {
   width: 300px;
   font-size: 22px;
   font-weight: bold;
-  background: #990099;
+  background: #660099;
   border: 2px solid #8065BF;
   color: white; 
   text-decoration: none;
@@ -188,7 +189,7 @@ header {
   font-size: 22px;
   font-weight: bold;
   background: none;
-  border: 2px solid #990099;
+  border: 2px solid #660099;
   color: #ffffff; 
   text-decoration: none;
   text-align: center; 
@@ -207,7 +208,7 @@ header {
   bottom: 0;
   right:0;
   text-decoration: none;
-  background: #990099;
+  background: #660099;
   color: #ffffff;
   padding: 15px 17px;
   border-radius:50%;
@@ -238,9 +239,11 @@ header {
 .text-section1 {
   flex: 45%;
   margin: auto;
+  padding-top: 0
+
 }
     
-.img-section1{
+.img-section1 {
   width: 100%;
   float: left;
   margin-top: 2px;
@@ -248,11 +251,14 @@ header {
 
 #intro {
   padding-left: 25px;
+  padding-top: 0;
+  margin-top: 0;
 }
 
 .text-section1 h2 {
   font-size: 35px;
   color: #ffffff;
+  padding-top: 0;
 }
 
 .text-section1 h3 {
@@ -270,7 +276,7 @@ header {
 .boton3 {
   font-size: 22px;
   font-weight: bold;
-  background: #990099;
+  background: #660099;
   border: 2px solid #8065BF;
   color: white; 
   text-decoration: none;
@@ -280,7 +286,7 @@ header {
 }
 
 .boton3:hover {
-  border: 2px solid #990099;
+  border: 2px solid #660099;
   background: none; 
   color:#ffffff;
 }
@@ -358,7 +364,7 @@ header {
 }
 
 .text-proyectos h2 {
-  font-size: 35px;
+  font-size: 30px;
   padding-bottom: 10px;
   color: #ffffff;
 }
@@ -447,7 +453,7 @@ header {
 .boton4 {
   font-size: 22px;
   font-weight: bold;
-  background: #990099;
+  background: #660099;
   border: 2px solid #8065BF;
   color: white;  
   text-decoration: none;
@@ -459,7 +465,7 @@ header {
 .boton4:hover {
   background: none;
   color: #8065BF;
-  border: 2px solid #8065BF;
+  border: 2px solid #660099;
 }
 
 
@@ -540,14 +546,14 @@ header {
   font-family: 'Roboto', sans-serif;
   margin-top: 20px;
   font-size: 20px;
-  color: #990099;
+  color: #660099;
   display: block;
 }
 
 .cargo {
   font-family: 'Roboto', sans-serif;
   font-size: 17px;
-  color: #990099;
+  color: #660099;
   display: block;
 }
 
@@ -555,7 +561,7 @@ header {
   position: absolute;
   width: 40px;
   height: 90px;
-  color: #990099;
+  color: #660099;
   top: 50%;
   transform:translateY(-50%) ;
   font-size: 25px;
@@ -580,7 +586,7 @@ header {
 .cont-calltoaction {
   width: 100%;
   height: auto;
-  background: #990099;
+  background: #660099;
 }
 
 .calltoaction-text {
@@ -605,7 +611,7 @@ header {
   font-size: 22px;
   font-weight: bold;
   background: #f0f0f0;
-  color:#990099;
+  color:#660099;
   border: 2px solid #f0f0f0; 
   text-decoration: none; 
   border-radius: 5px;
@@ -674,7 +680,7 @@ input[type="text"],input[type="email"] {
   height: 50px;
   font-weight: bold;
   font-size: 20px;
-  background: #990099;
+  background: #660099;
   color: white;
   cursor: pointer;
   -webkit-border-radius: 3px;
@@ -693,7 +699,7 @@ input[type="text"],input[type="email"] {
 .modal {
   display: none; 
   position: fixed; 
-  z-index: 1; 
+  z-index: 100000000; 
   left: 0;
   top: 0;
   width: 100%;
@@ -724,6 +730,7 @@ input[type="text"],input[type="email"] {
   cursor: pointer;
 }
 
+
     
 /* Estilos del footer */
 footer {
@@ -736,6 +743,7 @@ footer {
   padding: 20px;
   margin: 0;
   width: 100%;
+  font-family: 'Roboto', sans-serif;
   
 }
 
@@ -775,6 +783,7 @@ footer .mail-address{
   text-align: center;
   text-decoration: none;
   font-size: 0.9rem;
+  
 }
 
 .footer .mail-address i {
@@ -789,18 +798,14 @@ footer .mail-address a {
 
 footer .mail-address p  {
   color: #000000;
+  
 }
 
-.footer-rrss {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-}
 
 footer ul {
   display: flex;
   list-style: none;
+  
 }
 
 footer li {
@@ -816,7 +821,7 @@ footer .copyright {
   margin: 15px 0 5px 0;
   text-align: center;
   color: dimgrey;
-  font-size: 0.9rem;
+  font-size: 0.7rem;
 }
 
 @media only screen and (max-width:1400px) {
@@ -829,25 +834,17 @@ footer .copyright {
     margin: 0px 30px 230px 0px;
   }
   
-  .section1 {
-    width: 80%;
-  }
-  
-  .parrallax-servicios {
-    width: 80%;
-  }
-  
-  .contenido {
-    width: 80%;
-  }
-  
-  .proyectos {
+  .contenido, .section1, .parrallax-servicios, .proyectos, .testimonios, .calltoaction-text, .registrom-text, .footer-items {
     width: 80%;
   }
   
   .contenido-text {
     width: 70%;
     margin: 180px auto;
+  } 
+  
+  .text-section1 {
+    padding-top: 0px;
   }
   
   .testimonios {
@@ -858,10 +855,14 @@ footer .copyright {
     padding: 70px  0px;
   }
   
-  .registrom-text {
-    width: 70%;
+  footer .mail-address{
+  font-size: 1.2rem;
   }
   
+  #subir {
+  
+  margin: 0px 90px 140px 0px;}
+
 }
 
 @media only screen and (max-width:950px) {
@@ -875,7 +876,8 @@ footer .copyright {
   }
   
   .text-section1 {
-    padding-top: 25px;
+    padding-top: 0px;
+    
   }
   
   .parrallax-servicios {
@@ -949,6 +951,11 @@ footer .copyright {
   width: 85%;  
     }
   
+  .footer-items {
+    width: 80%;
+    padding-top: 10px;
+    padding-bottom: 0px;
+  }
   
 }
 
@@ -1002,8 +1009,10 @@ footer .copyright {
   }
   
   .text-section1 {
+    flex: 100%;
     margin: auto;
     width: 95%;
+    padding-top: 25px;
   }
   
   .text-section1 h2 {
@@ -1020,14 +1029,13 @@ footer .copyright {
     text-align: center;
   }
   
-  .text-section1 {
-    flex: 100%;
-    margin: auto;
-  }
   
   #intro {
     padding-left: 0px;
+    padding-top: 0;
+    margin-top: 25px;
   }
+  
   
   .boton3 {
     font-size: 19px;
@@ -1150,6 +1158,15 @@ footer .copyright {
     margin-top: 10px;
   }
   
+  .footer-items {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 0px;
+  }
+  
+  footer .mail-address{
+  font-size: 1rem;
+  }
 }
 
 
