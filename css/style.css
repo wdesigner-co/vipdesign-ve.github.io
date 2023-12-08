@@ -824,7 +824,7 @@ footer .copyright {
   font-size: 0.7rem;
 }
 
-@media only screen and (max-width:1400px) {
+@media only screen and (max-width:1920px) {
   
   .container {
     width: 80%;
