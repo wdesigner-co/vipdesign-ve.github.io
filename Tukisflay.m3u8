@@ -200,7 +200,7 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/602830
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28065
 
 #EXTINF:-1 tvg-id="Telemundo Int.mx"  group-title="Internacional" tvg-logo="http://imgfz.com/i/Ywh6RAg.png",231 | Telemundo Internacional  
-http://bantel.iptvperu.tv:1935/transcoder4-srt/telemundo.stream/playlist.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/585897
 
 #EXTINF:-1 group-title="Variedades" tvg-logo="http://imgfz.com/i/SZJbdqF.png",232 | El Gourmet 
 http://201.222.44.220:4227/play/a03o/index.m3u8
