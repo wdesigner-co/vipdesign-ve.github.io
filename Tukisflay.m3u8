@@ -440,7 +440,7 @@ http://201.222.44.220:4227/play/a01b/index.m3u8
 http://dns.k4livetv.com:80/Emma2023/Emma2023/592464
 
 #EXTINF:-1 group-title="Variedades" tvg-logo="http://imgfz.com/i/1tEafBv.png",1222 | E! 
-http://201.222.44.220:4227/play/a02c/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/592456
 
 #EXTINF:-1 group-title="Educativo" tvg-logo="http://imgfz.com/i/EZrcvzl.png",1223 | ID 
 http://201.222.44.220:4227/play/a011/index.m3u8
