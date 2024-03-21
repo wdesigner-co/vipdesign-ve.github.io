@@ -437,7 +437,7 @@ http://201.222.44.220:4227/play/a01k/index.m3u8
 http://201.222.44.220:4227/play/a01b/index.m3u8
 
 #EXTINF:-1 group-title="Variedades" tvg-logo="http://imgfz.com/i/PBacirw.png",1221 | Hola TV 
-http://201.222.44.220:4227/play/a00r/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/592464
 
 #EXTINF:-1 group-title="Variedades" tvg-logo="http://imgfz.com/i/1tEafBv.png",1222 | E! 
 http://201.222.44.220:4227/play/a02c/index.m3u8
