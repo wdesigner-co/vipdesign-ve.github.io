@@ -192,7 +192,6 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/1040819
 
 #EXTINF:-1 tvg-id="ARGLO" tvg-name="GH Argentina 24Hrs" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWV86mfNrbwbzas8axPLQR3_lFAxOTvYXyP9b8qECK3Mtb_0QtdyuuDg3YYItJSz21s.png" group-title="Variedades",219 | Gran Hmno. Argentina 🇦🇷
 http://dns.k4livetv.com:80/Emma2023/Emma2023/1039454
-http://dns.k4livetv.com:80/Emma2023/Emma2023/592381
 
 #EXTINF:-1 tvg-id="AdultSwin" group-title="Cine y Series" tvg-logo="http://dnslivetv.online:80/images/uhkxyjMu021BIXnaHOZmUMJCkbUC_YQ655ArOPZMXRU8-GhmMklgbOo5mG5KaqcdpVW_PQRwWJTlLBCzcjln84ORWxbVZ3cdU2nLQU36YaU.png" ,220 | ADULT SWIN
 http://dns.k4livetv.com:80/Emma2023/Emma2023/592474
@@ -204,7 +203,7 @@ http://181.78.8.90:16123/play/ch34
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 group-title="Variedades" tvg-logo="http://imgfz.com/i/ZxsrMJW.png",227 | TeleNovelas 
-http://bantel.iptvperu.tv:1935/transcoder4-srt/TL_Novelas.stream/playlist.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/591599
 
 #EXTINF:-1 tvg-id="LIFELAH" group-title="Cine y Series" tvg-logo="http://dnslivetv.online:80/images/qw9Sd5JnDX2uSQDrGmMcurfZrMSma8R-kOjxBTXfQ6ZTD9WNBKxNC9LT2B9KuuPw.png" ,228 | LifeTime
 http://dns.k4livetv.com:80/Emma2023/Emma2023/602830
