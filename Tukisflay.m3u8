@@ -461,7 +461,7 @@ http://201.222.44.220:4227/play/a011/index.m3u8
 http://dns.k4livetv.com:80/Emma2023/Emma2023/590914
 
 #EXTINF:-1 group-title="Educativo" tvg-logo="http://imgfz.com/i/YKcaboG.png",1229 | Discovery H&H 
-http://201.222.44.220:4227/play/a018/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/590981
 
 #EXTINF:-1 group-title="Variedades" tvg-logo="http://imgfz.com/i/qOBNWTy.png",1233 | Food Network 
 http://201.222.44.220:4227/play/a02f/index.m3u8
