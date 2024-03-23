@@ -472,19 +472,49 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/602529
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="http://imgfz.com/i/d0wgYsI.png",1509 | CINEMAX 
 http://280232614535661940.nicsd0227a.xyz:80/play/Cris527S/CrisM121/661940.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Oye, Arnold 24/7" tvg-logo="https://www.themoviedb.org/t/p/w500/1aHnP8oed54UMLEvTlY7VBl069q.jpg" group-title="Cine y Series",1510 | Oye, Arnold 24/7
+#EXTINF:-1 tvg-id="" tvg-name="Oye, Arnold 24/7" tvg-logo="https://www.themoviedb.org/t/p/w500/1aHnP8oed54UMLEvTlY7VBl069q.jpg" group-title="Infantiles",1510 | Oye, Arnold 24/7
 http://dns.k4livetv.com:80/Emma2023/Emma2023/1039730
 
-#EXTINF:-1 tvg-id="" tvg-name="El Chapulin Colorado 24/7" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qF8NDpVBSTDhdLlEjVAhNhfqB8K.jpg" group-title="Cine y Series",1511 | El Chapulin Colorado 24/7
+#EXTINF:-1 tvg-id="" tvg-name="Capitan Tsubasa 24/7" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/34hMi7fnXUrfQ3AP59AZnXZKBx2.jpg" group-title="Anime",1511 | Capitan Tsubasa 24/7
+http://dns.k4livetv.com:80/Emma2023/Emma2023/1039754
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z 24/7" tvg-logo="https://www.themoviedb.org/t/p/w500/dBsDWUcdfbuZwglgyeeQ9ChRoS4.jpg" group-title="Anime",1512 | Dragon Ball Z 24/7
+http://dns.k4livetv.com:80/Emma2023/Emma2023/1039747
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super 25/7" tvg-logo="https://www.themoviedb.org/t/p/w500/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg" group-title="Anime",1513 | Dragon Ball Super 25/7
+http://dns.k4livetv.com:80/Emma2023/Emma2023/1039748
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Kai 24/7" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ykl67ghR2ug6KGFH3CQcI01pzQJ.jpg" group-title="Anime",1514 | Dragon Ball Kai 24/7
+http://dns.k4livetv.com:80/Emma2023/Emma2023/1039749
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball 24/7" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ovQcVS08N0Sv164p8BPSe9PJpP.jpg" group-title="Anime",1515 | Dragon ball 24/7
+http://dns.k4livetv.com:80/Emma2023/Emma2023/1039750
+
+#EXTINF:-1 tvg-id="" tvg-name="Naruto 24/7" tvg-logo="https://www.themoviedb.org/t/p/w500/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg" group-title="Anime",1516 | Naruto 24/7
+http://dns.k4livetv.com:80/Emma2023/Emma2023/1039733
+
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man 24/7" tvg-logo="https://www.themoviedb.org/t/p/w500/bS6GeCRInMRl6oQN6czCqPFdcHN.jpg" group-title="Anime",1517 | One Punch Man 24/7
+http://dns.k4livetv.com:80/Emma2023/Emma2023/1039731
+
+#EXTINF:-1 tvg-id="" tvg-name="One Piece 24/7" tvg-logo="https://www.themoviedb.org/t/p/original/nlnbRpC8hycdcIsHWXwkNokFTA1.jpg" group-title="Anime",1518 | One Piece 24/7
+http://dns.k4livetv.com:80/Emma2023/Emma2023/1039732
+
+#EXTINF:-1 tvg-id="" tvg-name="Mazinger Z 24/7" tvg-logo="https://www.themoviedb.org/t/p/original/woGUtAdRwjzWgobGvF3ebW1WsKY.jpg" group-title="Anime",1519 | Mazinger Z 24/7
+http://dns.k4livetv.com:80/Emma2023/Emma2023/1039736
+
+#EXTINF:-1 tvg-id="" tvg-name="ThunderCats 24/7" tvg-logo="https://www.themoviedb.org/t/p/w500/fz23hySaUzpE71CvwcZXMDwqK1u.jpg" group-title="Anime",1520 | ThunderCats 24/7
+http://dns.k4livetv.com:80/Emma2023/Emma2023/1039724
+
+#EXTINF:-1 tvg-id="" tvg-name="El Chapulin Colorado 24/7" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qF8NDpVBSTDhdLlEjVAhNhfqB8K.jpg" group-title="Cine y Series",1521 | El Chapulin Colorado 24/7
 http://dns.k4livetv.com:80/Emma2023/Emma2023/1039705
 
-#EXTINF:-1 tvg-id="" tvg-name="La familia Monster 24/7" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dF4P2k9XgeFUT3OetAJqJJ0uQUj.jpg" group-title="Cine y Series",1512 | La familia Monster 24/7
+#EXTINF:-1 tvg-id="" tvg-name="La familia Monster 24/7" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dF4P2k9XgeFUT3OetAJqJJ0uQUj.jpg" group-title="Cine y Series",1522 | La familia Monster 24/7
 http://dns.k4livetv.com:80/Emma2023/Emma2023/1039696
 
-#EXTINF:-1 tvg-id="" tvg-name="Los tres chiflados 24/7" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/iwgHVA13Q3lAFT3dhDdV45SHVVK.jpg" group-title="Cines y Series" ,1513 | Los tres chiflados 24/7
+#EXTINF:-1 tvg-id="" tvg-name="Los tres chiflados 24/7" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/iwgHVA13Q3lAFT3dhDdV45SHVVK.jpg" group-title="Cines y Series" ,1523 | Los tres chiflados 24/7
 http://dns.k4livetv.com:80/Emma2023/Emma2023/1039690
 
-#EXTINF:-1 tvg-id="" tvg-name="Salvados por la campana 24/7" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lG8owi6s5Cy6rYMLuUGjyyxWPrL.jpg" group-title="Cine y Series",1514 | Salvados por la campana 24/7
+#EXTINF:-1 tvg-id="" tvg-name="Salvados por la campana 24/7" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lG8owi6s5Cy6rYMLuUGjyyxWPrL.jpg" group-title="Cine y Series",1524 | Salvados por la campana 24/7
 http://dns.k4livetv.com:80/Emma2023/Emma2023/1039680
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/wgvt7X1.png",1610 | DIRECTV Sports 
