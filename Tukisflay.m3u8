@@ -145,7 +145,7 @@ http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4301.m3u8
 http://138.59.177.34:8000/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-id="Latina.pe" group-title="Internacional" tvg-logo="http://imgfz.com/i/epsHRry.png"    ,192 | Latina 🇵🇪
-https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8?aid=5ce70c587398b977dc0743b5&pid=oajn40vqjto50uahbp3b44deugkpmuoi&sid=cfwwqosyhuqh6qkqyl5px9kwawunbs7f&uid=7ljmioeuorexklanymjpgnmyvvosfxnu&es=live-latinav2-mdstrm.secure.footprint.net&proto=https&pz=us&access_token=kxrufbpqtcqgnuzngwvwoaneilxd67baehkuvrfx2c14aq0e1rxk8quh66vb5730dzyoiy4s4tu&manifestfilter=video_height:360-480&hash=0cbd30deea137a9f32002
+http://dns.k4livetv.com:80/Emma2023/Emma2023/591328
 
 #EXTINF:-1 tvg-id="CL | Chilevisión" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logotipo_Principal_de_Chilevisi%C3%B3n.svg/250px-Logotipo_Principal_de_Chilevisi%C3%B3n.svg.png" ,193  | Chilevisión 🇨🇱
 http://201.222.44.220:4227/play/a00o/index.m3u8
@@ -511,7 +511,7 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/1039705
 #EXTINF:-1 tvg-id="" tvg-name="La familia Monster 24/7" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dF4P2k9XgeFUT3OetAJqJJ0uQUj.jpg" group-title="Cine y Series",1522 | La familia Monster 24/7
 http://dns.k4livetv.com:80/Emma2023/Emma2023/1039696
 
-#EXTINF:-1 tvg-id="" tvg-name="Los tres chiflados 24/7" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/iwgHVA13Q3lAFT3dhDdV45SHVVK.jpg" group-title="Cines y Series" ,1523 | Los tres chiflados 24/7
+#EXTINF:-1 tvg-id="" tvg-name="Los tres chiflados 24/7" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/iwgHVA13Q3lAFT3dhDdV45SHVVK.jpg" group-title="Cine y Series" ,1523 | Los tres chiflados 24/7
 http://dns.k4livetv.com:80/Emma2023/Emma2023/1039690
 
 #EXTINF:-1 tvg-id="" tvg-name="Salvados por la campana 24/7" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lG8owi6s5Cy6rYMLuUGjyyxWPrL.jpg" group-title="Cine y Series",1524 | Salvados por la campana 24/7
