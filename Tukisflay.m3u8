@@ -132,8 +132,11 @@ http://201.222.44.220:4227/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="Mega.cl"  group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/145px-Mega_Chile_2020.png" ,154 | Mega 🇨🇱
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="UnivisiónLatam.us" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" ,168 | Univisión Latinoamérica 🇺🇸
-http://bantel.iptvperu.tv:1935/transcoder4-srt/Univision.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="univision23wltv.us" tvg-name="UNIVISION (WLTV-MIAMI-FT. LAUDERDALE)" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIhIHkDD9EYBOiwjmdKydKHYmdDYfl_61Xw6GexwRQEyr25AmO56vlLbIr5xVpFaD3g.png" group-title="Internacional",166 | UNIVISION Miami 🇺🇸
+http://dns.k4livetv.com:80/Emma2023/Emma2023/585990
+
+#EXTINF:-1 tvg-id="UNILAT" tvg-name="Univision Boston" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIhIHkDD9EYBOiwjmdKydKHYmdDYfl_61Xw6GexwRQEyr25AmO56vlLbIr5xVpFaD3g.png" group-title="Internacional",167 | Univision Boston 🇺🇸
+http://dns.k4livetv.com:80/Emma2023/Emma2023/586087
 
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="Internacional",180 | Teleamazonas 🇪🇨
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4301.m3u8
