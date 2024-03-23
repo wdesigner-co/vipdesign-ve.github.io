@@ -502,6 +502,15 @@ http://201.222.44.220:4227/play/a01e/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/uXlo8fI.png",1633 | Win Sports HD
 http://201.222.44.220:4227/play/a00d/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVxFgCqkV_CmLZUi2nGl5BvGCJ5fvPJlf63Fl8rJXRozP6w6i-dxFK9mm0jMW4yVgg2mhen9WvMGh4Kzo_jvBKu.png" group-title="Deportes",1634 | NBA TV
+http://dns.k4livetv.com:80/Emma2023/Emma2023/585732
+
+#EXTINF:-1 tvg-id="" tvg-name="GOLTV (SPANISH)" tvg-logo="http://dnslivetv.online:80/images/3u7c_sCDIMm96zrRTnufqtyu6eI7jk70EKoifsbgT4QmVBhJ-Abaj2EAx3RIZwKTDdfSM66zThVvfl39Qabc5UD0y1pyUZ5cGM7jC6RD9zXINF3WSdtjh7ZAijCWhaaJ.png" group-title="Deportes",1635 |GOLTV (SPANISH)
+http://dns.k4livetv.com:80/Emma2023/Emma2023/585611
+
+#EXTINF:-1 tvg-id="" tvg-name="MLB_NET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUhlG0gIF9K-YW0CFn1q9e7Vlqo_oXzQt6rjFXGVese7giq02Yz_L3yGoJYDCgcM2jvs&usqp=CAU" group-title="Deportes",1636 | MLB_NET
+http://dns.k4livetv.com:80/Emma2023/Emma2023/586115
+
 #EXTINF:-1 tvg-id="SpotRadioWeb" group-title="Radio"  tvg-logo="http://imgfz.com/i/6Pvkni5.png" ,2000 | WD Top hits music 🇻🇪
 https://stream.zeno.fm/1smzgy3npietv
 
