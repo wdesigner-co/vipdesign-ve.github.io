@@ -458,7 +458,7 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/592456
 http://201.222.44.220:4227/play/a011/index.m3u8
 
 #EXTINF:-1 group-title="Variedades" tvg-logo="http://imgfz.com/i/oRUKfLI.jpeg",1225 | Pasiones 
-http://201.222.44.220:4227/play/a00p/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/590914
 
 #EXTINF:-1 group-title="Educativo" tvg-logo="http://imgfz.com/i/YKcaboG.png",1229 | Discovery H&H 
 http://201.222.44.220:4227/play/a018/index.m3u8
