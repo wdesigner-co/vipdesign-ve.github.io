@@ -67,7 +67,7 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/590923
 https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="caracolhd.co" group-title="Colombia" tvg-logo="http://imgfz.com/i/BWE7znQ.png",132 | Caracol
-http://201.222.44.220:4227/play/a02u/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/590890
 
 #EXTINF:-1 tvg-id="CITYTVB" group-title="Colombia" tvg-logo="http://imgfz.com/i/RH42Af7.jpeg",133 | City TV 
 http://dns.k4livetv.com:80/Emma2023/Emma2023/590905
