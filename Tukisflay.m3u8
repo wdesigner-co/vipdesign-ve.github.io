@@ -182,6 +182,15 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/593958
 http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNTNovelas" group-title="Variedades"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/150?cb=20230621193156" ,216 | TNT Novelas
+
+#EXTINF:-1 tvg-id="UNITLNO" tvg-name="UNIVISION TLNOVELAS" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjTozqUD8uRRG69XiTMt4mElI6_dEEObU0KHqrappgQIhIHkDD9EYBOiwjmdKydKHYmdDYfl_61Xw6GexwRQEyr25AmO56vlLbIr5xVpFaD3g.png" group-title="Variedades",217 | UNIVISION TLNOVELAS
+http://dns.k4livetv.com:80/Emma2023/Emma2023/586000
+
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE LOS FAMOSOS 1" tvg-logo="http://dnslivetv.online:80/images/0oBL6XQbO27a_0eC82Lr4-2gy5Hdfq4xC17tz9QbxwiqDKi5ddwTfEqbn7bqqX_J1Y6FW-ID7dVztYU0Kg3Ci6fCuhrIAIfPmqWBjtZy6yEGku4OgO2WXg_pR0PeVsvJOzRy9KCcrMR7PT85TygEXTngqJafw-xsSRTrbyz0iH-oVrnbAs5rZstQ3O_A_VaM6dT2Jg3jnYFqt-HF94GNzSBcywxgeF0IWrNA7Gt-Qz4.jpg" group-title="Variedades",218 | LA CASA DE LOS FAMOSOS 
+http://dns.k4livetv.com:80/Emma2023/Emma2023/1040819
+
+#EXTINF:-1 tvg-id="ARGLO" tvg-name="GH Argentina 24Hrs" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWV86mfNrbwbzas8axPLQR3_lFAxOTvYXyP9b8qECK3Mtb_0QtdyuuDg3YYItJSz21s.png" group-title="Variedades",219 | Gran Hmno. Argentina 🇦🇷
+http://dns.k4livetv.com:80/Emma2023/Emma2023/1039454
 http://dns.k4livetv.com:80/Emma2023/Emma2023/592381
 
 #EXTINF:-1 tvg-id="AdultSwin" group-title="Cine y Series" tvg-logo="http://dnslivetv.online:80/images/uhkxyjMu021BIXnaHOZmUMJCkbUC_YQ655ArOPZMXRU8-GhmMklgbOo5mG5KaqcdpVW_PQRwWJTlLBCzcjln84ORWxbVZ3cdU2nLQU36YaU.png" ,220 | ADULT SWIN
