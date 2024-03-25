@@ -537,6 +537,9 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/589443
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/Xf7qCRS.png",1623 | ESPN 3 HD
 http://dns.k4livetv.com:80/Emma2023/Emma2023/589446
 
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ARD10: ESPN PREMIUM (OP1)" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPad5lAi_j81fuUSP11WU9TcTCt0_d14v1GAKNCmydHhm.png" group-title="Deportes",1624 | ESPN PREMIUM
+http://dns.k4livetv.com:80/Emma2023/Emma2023/589449
+
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/Zs1eoix.png",1625 | ESPN 5 HD
 http://201.222.44.220:4227/play/a03w/index.m3u8
 
