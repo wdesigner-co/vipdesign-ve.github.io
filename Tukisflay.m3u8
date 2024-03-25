@@ -162,9 +162,11 @@ https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/60580
 #EXTINF:-1 tvg-id="ATVAndinaTelevisión.per" group-title="Internacional"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" ,199 | ATV 🇵🇪
 http://bantel.iptvperu.tv:1935/prueba/atvmovil_t6.stream/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="http://imgfz.com/i/m57TgOS.png",207 | A&E
-http://201.222.44.220:4227/play/a04s/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/592219
+
+#EXTINF:-1 tvg-id="EUROPAM" tvg-name="CIN40: EUROPA EUROPA (OP1)" tvg-logo="http://dnslivetv.online:80/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqDMkWPBEH7w5IhIXlWKxCj8gVoY0J-8rFbv3ElQIC4_uA.png" group-title="Cine y Series",CIN40: 208 | EUROPA EUROPA
+http://dns.k4livetv.com:80/Emma2023/Emma2023/592264
 
 #EXTINF:-1 tvg-id="AXN" group-title="Cine y Series" tvg-logo="http://dnslivetv.online:80/images/lO4I6ENDRiY1iG64O8qqg8_eMx1VzEmKBLCBzyZuFz16ML4lAiIWSzhKqA74Xkegmy7NzUp1J6RdDF2Cy5r79Nc2NPuxr9MF5wJp86VI8uTPWA7-NZHroLcSjgE_HcWGhN57AOlMO1bBN9qNbfkUYwKRoKZ4Pcf5WY_eaQOlebA.png" ,209 | AXN 
 http://dns.k4livetv.com:80/Emma2023/Emma2023/593951
@@ -173,13 +175,13 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/593951
 http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="http://imgfz.com/i/UVYohc8.png",213 | TNT Series
-http://201.222.44.220:4227/play/a04v/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/592391
 
 #EXTINF:-1 tvg-id="a3series.pt" group-title="Cine y Series"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" ,214 |  A3SERIES
 http://dns.k4livetv.com:80/Emma2023/Emma2023/593958
 
 #EXTINF:-1 tvg-id="ComedyCentral" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" ,215 | Comedy Central
-http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/592449
 
 #EXTINF:-1 tvg-id="TNTNovelas" group-title="Variedades"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/150?cb=20230621193156" ,216 | TNT Novelas
 http://190.90.154.73:8080/play/a08z/index.m3u8
@@ -215,7 +217,7 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28065
 http://dns.k4livetv.com:80/Emma2023/Emma2023/585897
 
 #EXTINF:-1 group-title="Variedades" tvg-logo="http://imgfz.com/i/SZJbdqF.png",232 | El Gourmet 
-http://201.222.44.220:4227/play/a03o/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/590998
 
 #EXTINF:-1 tvg-id="IVCVENE" group-title="Venezuela" tvg-logo="http://imgfz.com/i/twDhyeu.png",235 | IVC
 http://dns.k4livetv.com:80/Emma2023/Emma2023/591560
@@ -236,7 +238,7 @@ http://138.59.177.34:8000/play/a02i/index.m3u8
 http://dns.k4livetv.com:80/Emma2023/Emma2023/591991
 
 #EXTINF:-1 tvg-id="MTV" group-title="Música" tvg-logo="http://imgfz.com/i/PNdryek.png",264 | MTV
-http://201.222.44.220:4227/play/a04h/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/592496
 
 #EXTINF:-1 tvg-id="IntiTV" group-title="Educativo"  tvg-logo="https://i.imgur.com/2WirGqb.png" ,268 | Inti TV
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
@@ -293,16 +295,16 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/592013
 http://dns.k4livetv.com:80/Emma2023/Emma2023/590917
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="http://imgfz.com/i/dBMlR6F.png",502 | TNT
-http://201.222.44.220:4227/play/a04u/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/592388
 
 #EXTINF:-1 tvg-id="Golden" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" , 503 | Golden
-http://138.59.177.34:8000/play/a04d/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/592421
 
 #EXTINF:-1 tvg-id="TCM" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" ,504 | TCM
-http://190.149.66.90:4000/play/a02m/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/592384
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="http://imgfz.com/i/YU8QRon.png",508 | Studio Universal
-http://201.222.44.220:4227/play/a040/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/592372
 
 #EXTINF:-1 tvg-id="ParamountN" group-title="Cine y Series"  tvg-logo="http://dnslivetv.online:80/images/KeoQQENyQNzuYokg-zs6u91uE9XtEp0VlD0opLO8crcteQQfMH7PnfMZwN6nSiFeBSCjVdNvNFHDcEGpuFFROcLM4WI_tXgjRKiLVPLLCWY.png" ,510 | PARAMOUNT
 http://dns.k4livetv.com:80/Emma2023/Emma2023/602727
@@ -323,10 +325,10 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 http://201.222.44.220:4227/play/a041/index.m3u8
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/nYxPj0Q.png",629 | TyC Sports
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/196
+http://dns.k4livetv.com:80/Emma2023/Emma2023/589464
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://imgfz.com/i/9BJXYyh.png",704 | CNN Espanol
-http://201.222.44.220:4227/play/a04i/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/591861
 
 #EXTINF:-1 tvg-id="RedPlus.co" group-title="Noticias"  tvg-logo="http://imgfz.com/i/gVbpysZ.png"    ,705 | Red+ Noticias 🇨🇴
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
@@ -345,6 +347,9 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Noticiero90Minutos.co" group-title="Noticias"   tvg-logo="http://imgfz.com/i/MOlzwCG.png"   ,710 | Noticiero 90 Minutos 🇨🇴
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EURONWS" tvg-name="NT19: Euronews (OP1)" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj2bGQXiE1E2OpAmBrjy2SvD5Gr-YTM1KJUnea8OP9i4N-6usVWFY-66fn0N-xu34gzu0DSDNj_hpDurfjwuktILudGLPJEl5d_kpNK7MbFnBand4M_T6UQdp1Eb8R7_AT.png" group-title="Noticias",NT19: 711 | Euronews
+http://dns.k4livetv.com:80/Emma2023/Emma2023/591877
 
 #EXTINF:-1 tvg-id="tn.ar" group-title="Noticias"  tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjmoWdkLY6zi54kJvMp6lyPuIItUElpCXdCdcmIQIIs828Nmsbjf8o6v9ys8uBenKbGE9PocOCnpdI5MJfMYuQq4n9JnUfNY7yx9YRRQ2kRHE.png" ,716 | TN 🇦🇷
 http://dns.k4livetv.com:80/Emma2023/Emma2023/589386
@@ -374,13 +379,13 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/591022
 http://dns.k4livetv.com:80/Emma2023/Emma2023/591025
 
 #EXTINF:-1 tvg-id="natgeo" group-title="Educativo" tvg-logo="http://imgfz.com/i/pvVkMs9.png",730 | National Geographic 
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/245
+http://dns.k4livetv.com:80/Emma2023/Emma2023/594141
 
 #EXTINF:-1 tvg-id="DTHLAM" group-title="Educativo" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjVPmr-JH78Wv2HlybXUOCvAIbKKHgTJ0Dg_K9K8ffGyDSgjlHG9zBxH-FUUPJMdK3Hy9tfxdwBuw-zm7g2Q1xHC1HnuazLALhNyU8qt-yQ_la8PFNeO-uuzPzx10oFkna.png" ,731 | Discovery Theater 
 http://dns.k4livetv.com:80/Emma2023/Emma2023/590989
 
 #EXTINF:-1 group-title="Educativo" tvg-logo="http://imgfz.com/i/2iEJUOS.jpeg",732 | Discovery 
-http://201.222.44.220:4227/play/a02x/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/586048
 
 #EXTINF:-1 tvg-id="DiscoveryFamilia"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoVCoTY6bb9FC6d4VjQsf5A_GCTcJtW4uqKj9cKRom6akFCFQf9iX486EjPXFvBFlJ7ps&usqp=CAU" group-title="Educativo",733 | Discovery Familia 
 http://dns.k4livetv.com:80/Emma2023/Emma2023/586049
@@ -392,7 +397,7 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/590962
 http://dns.k4livetv.com:80/Emma2023/Emma2023/601091
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo" group-title="Educativo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" ,736 | Discovery Turbo
-http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/590992
 
 #EXTINF:-1 tvg-id="DSCIENH" group-title="Educativo"  tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj2YU8hQK3KXlc0qITRqaZbZvP9emOkmOmIwPYUlTNi5gDera8wwbCPs4MVfzT2gKKIPRmt_Z3bZvvbxi2FTsJmGAMYBLJm51C4awudKBpHK-DRen0gbsAD5Hhgu70gTaX.png" ,737 | Discovery Science 
 http://dns.k4livetv.com:80/Emma2023/Emma2023/590986
@@ -434,19 +439,19 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/589369
 http://dns.k4livetv.com:80/Emma2023/Emma2023/585888
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="http://imgfz.com/i/zn5JM7E.png",1204 | Star Channel 
-http://201.222.44.220:4227/play/a00g/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/592370
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="http://imgfz.com/i/WtxFJOm.png",1206 | Warner TV
-http://201.222.44.220:4227/play/a007/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/602781
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="http://imgfz.com/i/aBONgU5.png",1208 | Sony 
-http://201.222.44.220:4227/play/a006/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/592353
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="http://imgfz.com/i/1ga2NIY.png",1217 | FX 
-http://201.222.44.220:4227/play/a01k/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/592271
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="http://imgfz.com/i/dyFkMzs.png",1218 | Universal TV 
-http://201.222.44.220:4227/play/a01b/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/592395
 
 #EXTINF:-1 group-title="Variedades" tvg-logo="http://imgfz.com/i/PBacirw.png",1221 | Hola TV 
 http://dns.k4livetv.com:80/Emma2023/Emma2023/592464
@@ -455,7 +460,7 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/592464
 http://dns.k4livetv.com:80/Emma2023/Emma2023/592456
 
 #EXTINF:-1 group-title="Educativo" tvg-logo="http://imgfz.com/i/EZrcvzl.png",1223 | ID 
-http://201.222.44.220:4227/play/a011/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/590983
 
 #EXTINF:-1 group-title="Variedades" tvg-logo="http://imgfz.com/i/oRUKfLI.jpeg",1225 | Pasiones 
 http://dns.k4livetv.com:80/Emma2023/Emma2023/590914
@@ -464,7 +469,7 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/590914
 http://dns.k4livetv.com:80/Emma2023/Emma2023/590981
 
 #EXTINF:-1 group-title="Variedades" tvg-logo="http://imgfz.com/i/qOBNWTy.png",1233 | Food Network 
-http://201.222.44.220:4227/play/a02f/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/591001
 
 #EXTINF:-1 tvg-id="CCANAL" group-title="Cine y Series" tvg-logo="http://imgfz.com/i/ml8kDGo.png",1507 | CineCanal 
 http://dns.k4livetv.com:80/Emma2023/Emma2023/602529
@@ -477,9 +482,6 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/1039730
 
 #EXTINF:-1 tvg-id="" tvg-name="Capitan Tsubasa 24/7" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/34hMi7fnXUrfQ3AP59AZnXZKBx2.jpg" group-title="Anime",1511 | Capitan Tsubasa 24/7
 http://dns.k4livetv.com:80/Emma2023/Emma2023/1039754
-
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z 24/7" tvg-logo="https://www.themoviedb.org/t/p/w500/dBsDWUcdfbuZwglgyeeQ9ChRoS4.jpg" group-title="Anime",1512 | Dragon Ball Z 24/7
-http://dns.k4livetv.com:80/Emma2023/Emma2023/1039747
 
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super 25/7" tvg-logo="https://www.themoviedb.org/t/p/w500/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg" group-title="Anime",1513 | Dragon Ball Super 25/7
 http://dns.k4livetv.com:80/Emma2023/Emma2023/1039748
@@ -527,13 +529,13 @@ http://redima.pro:8880/TISUCR/TISUCR/576
 http://redima.pro:8880/TISUCR/TISUCR/685
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/xsmcaKR.png",1621 | ESPN HD
-http://201.222.44.220:4227/play/a00k/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/589441
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/QNay1TA.png",1622 | ESPN 2 HD
-http://201.222.44.220:4227/play/a00b/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/589443
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/Xf7qCRS.png",1623 | ESPN 3 HD
-http://201.222.44.220:4227/play/a00t/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/589446
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/Zs1eoix.png",1625 | ESPN 5 HD
 http://201.222.44.220:4227/play/a03w/index.m3u8
@@ -545,7 +547,7 @@ http://201.222.44.220:4227/play/a04r/index.m3u8
 http://201.222.44.220:4227/play/a01e/index.m3u8
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/uXlo8fI.png",1633 | Win Sports HD
-http://201.222.44.220:4227/play/a00d/index.m3u8
+http://dns.k4livetv.com:80/Emma2023/Emma2023/590947
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVxFgCqkV_CmLZUi2nGl5BvGCJ5fvPJlf63Fl8rJXRozP6w6i-dxFK9mm0jMW4yVgg2mhen9WvMGh4Kzo_jvBKu.png" group-title="Deportes",1634 | NBA TV
 http://dns.k4livetv.com:80/Emma2023/Emma2023/585732
@@ -559,112 +561,112 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/586115
 #EXTINF:-1 tvg-id="SpotRadioWeb" group-title="Radio"  tvg-logo="http://imgfz.com/i/6Pvkni5.png" ,2000 | WD Top hits music 🇻🇪
 https://stream.zeno.fm/1smzgy3npietv
 
-#EXTINF:-1 tvg-id="DiscoMusic.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/1Z8iMSa.jpeg" ,2000 | Disco Music 70 80 90 🇻🇪
+#EXTINF:-1 tvg-id="DiscoMusic.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/1Z8iMSa.jpeg" ,2001 | Disco Music 70 80 90 🇻🇪
 https://stream.zeno.fm/cm60x97v4s8uv
 
-#EXTINF:-1 tvg-id="RockLatino.cl" group-title="Radio"  tvg-logo="http://imgfz.com/i/5KHp43i.jpeg" ,2000 | ROCK LATINO 80s 90s 🇨🇱
+#EXTINF:-1 tvg-id="RockLatino.cl" group-title="Radio"  tvg-logo="http://imgfz.com/i/5KHp43i.jpeg" ,2002 | ROCK LATINO 80s 90s 🇨🇱
 https://stream.zeno.fm/qfghhnk0tiwuv
 
-#EXTINF:-1 tvg-id="FM887Stereo.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/DpoOS4U.jpeg" ,2000 | Estereo | 88.7 Fm 🇻🇪
+#EXTINF:-1 tvg-id="FM887Stereo.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/DpoOS4U.jpeg" ,2003 | Estereo | 88.7 Fm 🇻🇪
 https://stream.zeno.fm/3e2keb1e7tzuv
 
-#EXTINF:-1 tvg-id="LaRomantica.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/KDW67Uj.jpeg" ,2000 | La Romantica 🇻🇪
+#EXTINF:-1 tvg-id="LaRomantica.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/KDW67Uj.jpeg" ,2003 | La Romantica 🇻🇪
 https://stream.zeno.fm/28hgnyp8568uv
 
-#EXTINF:-1 tvg-id="AdultoJoven881FM.ve" group-title="Radio"  tvg-logo="https://worldradiomap.com/ve/images/adulto-joven.gif" ,2000 | Adulto Joven | 88.1 FM 🇻🇪
+#EXTINF:-1 tvg-id="AdultoJoven881FM.ve" group-title="Radio"  tvg-logo="https://worldradiomap.com/ve/images/adulto-joven.gif" ,2004 | Adulto Joven | 88.1 FM 🇻🇪
 https://server6.globalhostla.com:9168/stream
 
-#EXTINF:-1 tvg-id="Hot941FM.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/9KRgbmX.jpeg" ,2000 | Hot | 94.1 Fm 🇻🇪
+#EXTINF:-1 tvg-id="Hot941FM.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/9KRgbmX.jpeg" ,2005 | Hot | 94.1 Fm 🇻🇪
 https://stream.zeno.fm/dfnqaf4umd0uv
 
-#EXTINF:-1 tvg-id="Lalider949FM.ve" group-title="Radio"  tvg-logo="https://worldradiomap.com/ve/images/lider.gif" ,2000 | La lider | 94.9 FM 🇻🇪
+#EXTINF:-1 tvg-id="Lalider949FM.ve" group-title="Radio"  tvg-logo="https://worldradiomap.com/ve/images/lider.gif" ,2006 | La lider | 94.9 FM 🇻🇪
 https://stream-164.zeno.fm/pv120nq8e8zuv?zs=LNYupWyBT5yFpUDbqH1GkA
 
-#EXTINF:-1 tvg-id="Exitos999FM.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/NEheA8M.jpeg" ,2000 | Exitos | 99.9 FM 🇻🇪
+#EXTINF:-1 tvg-id="Exitos999FM.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/NEheA8M.jpeg" ,2007 | Exitos | 99.9 FM 🇻🇪
 https://acp4.lorini.net/proxy/ur2070?mp=/stream
 
-#EXTINF:-1 tvg-id="Kiss1015FM.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/gxXcq5N.png" ,2000 | Kiss | 101.5 FM 🇻🇪
+#EXTINF:-1 tvg-id="Kiss1015FM.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/gxXcq5N.png" ,2008 | Kiss | 101.5 FM 🇻🇪
 https://server6.globalhostla.com:9068/stream
 
-#EXTINF:-1 tvg-id="LaMega1073FM.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/tM7FYWh.jpeg" ,2000 | La Mega | 107.3 FM 🇻🇪
+#EXTINF:-1 tvg-id="LaMega1073FM.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/tM7FYWh.jpeg" ,2009 | La Mega | 107.3 FM 🇻🇪
 https://acp4.lorini.net/proxy/ur2050?mp=/stream
 
-#EXTINF:-1 tvg-id="woao881FM.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/3qsKSlj.jpeg" ,2000 | WOAO | 88.1 FM 🇻🇪
+#EXTINF:-1 tvg-id="woao881FM.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/3qsKSlj.jpeg" ,2010 | WOAO | 88.1 FM 🇻🇪
 https://stream.zeno.fm/361as28sbc9uv
 
 #EXTINF:-1 tvg-id="RadioRetro.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/A3TKdr0.jpeg" ,2000 | Radio Retro 🇻🇪
 https://stream.zeno.fm/fekp714epkhvv
 
-#EXTINF:-1 tvg-id="viejitas.mx" group-title="Radio"  tvg-logo="http://imgfz.com/i/l4Aw9n6.jpeg" ,2000 | Viejitas pero bonitas 🇲🇽
+#EXTINF:-1 tvg-id="viejitas.mx" group-title="Radio"  tvg-logo="http://imgfz.com/i/l4Aw9n6.jpeg" ,2011 | Viejitas pero bonitas 🇲🇽
 https://stream.zeno.fm/k8yuexp35k0uv
 
-#EXTINF:-1 tvg-id="FMCenterAragua.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/AE7Zv2N.jpeg" ,2000 | FM Center Aragua | 106 Fm 🇻🇪
+#EXTINF:-1 tvg-id="FMCenterAragua.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/AE7Zv2N.jpeg" ,2012 | FM Center Aragua | 106 Fm 🇻🇪
 https://stream.zeno.fm/213atc9gtv8uv
 
-#EXTINF:-1 tvg-id="CandelaPura911FM.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/BpPIUYr.jpeg" ,2000 | Candela Pura | 91.1 Fm 🇻🇪
+#EXTINF:-1 tvg-id="CandelaPura911FM.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/BpPIUYr.jpeg" ,2013 | Candela Pura | 91.1 Fm 🇻🇪
 https://stream.zeno.fm/608m834umd0uv
 
-#EXTINF:-1 tvg-id="Radiorama1033FM.ve" group-title="Radio"  tvg-logo="https://worldradiomap.com/ve/images/radiorama.gif" ,2000 | Radiorama Stereo | 103.3 Fm 🇻🇪
+#EXTINF:-1 tvg-id="Radiorama1033FM.ve" group-title="Radio"  tvg-logo="https://worldradiomap.com/ve/images/radiorama.gif" ,2014 | Radiorama Stereo | 103.3 Fm 🇻🇪
 https://cp2.lorini.net:44002/stream
 
-#EXTINF:-1 tvg-id="FM106.1FLatina.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/S4oFepg.jpeg" ,2002 | Fiesta Latina | 106.1 FM 🇻🇪
+#EXTINF:-1 tvg-id="FM106.1FLatina.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/S4oFepg.jpeg" ,2015 | Fiesta Latina | 106.1 FM 🇻🇪
 https://stream.zeno.fm/f3xqbpr34d0uv
 
-#EXTINF:-1 tvg-id="FiestaCaracasFM1065.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/dE9fo3z.jpeg" ,2002 | Fiesta Caracas | 106.5 FM 🇻🇪
+#EXTINF:-1 tvg-id="FiestaCaracasFM1065.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/dE9fo3z.jpeg" ,2016 | Fiesta Caracas | 106.5 FM 🇻🇪
 https://server6.globalhostla.com:9012/stream
 
-#EXTINF:-1 tvg-id="CostaDelSol.931FM.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/gHKPkvV.jpeg" ,2002 | Costa del Sol | 93.1 FM 🇻🇪
+#EXTINF:-1 tvg-id="CostaDelSol.931FM.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/gHKPkvV.jpeg" ,2017 | Costa del Sol | 93.1 FM 🇻🇪
 https://stream.zeno.fm/ge9dkxhuyyjuv
 
-#EXTINF:-1 tvg-id="autopistaestereo.931FM.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/xRwcfSq.jpeg" ,2002 | AUTOPISTA ESTEREO Guatore| 104.7 FM 🇻🇪
+#EXTINF:-1 tvg-id="autopistaestereo.931FM.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/xRwcfSq.jpeg" ,2018 | AUTOPISTA ESTEREO Guatore| 104.7 FM 🇻🇪
 https://server6.globalhostla.com:9486/stream
 
-#EXTINF:-1 tvg-id="SalsaBaul" group-title="Radio"  tvg-logo="http://imgfz.com/i/0I39UWH.jpeg" ,2003 | Salsa Baul Caracas Radio 🇻🇪
+#EXTINF:-1 tvg-id="SalsaBaul" group-title="Radio"  tvg-logo="http://imgfz.com/i/0I39UWH.jpeg" ,2020 | Salsa Baul Caracas Radio 🇻🇪
 https://stream.zeno.fm/mw6xcdbqbsquv
 
-#EXTINF:-1 tvg-id="LaSalseraFM.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/FuwI7Ss.jpeg" ,2004 | La Salsera FM 🇻🇪
+#EXTINF:-1 tvg-id="LaSalseraFM.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/FuwI7Ss.jpeg" ,2021 | La Salsera FM 🇻🇪
 https://stream.zeno.fm/4qbzbrvdmy8uv
 
-#EXTINF:-1 tvg-id="CaracasSalsaRom.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/G6hfJlA.jpeg" ,2004 | Caracas Salsa Romantica FM 🇻🇪
+#EXTINF:-1 tvg-id="CaracasSalsaRom.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/G6hfJlA.jpeg" ,2022 | Caracas Salsa Romantica FM 🇻🇪
 https://stream.zeno.fm/ftly191pojttv
 
-#EXTINF:-1 tvg-id="CaracasSalsaBrava.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/7f3vaiM.jpeg" ,2004 | Caracas. Salsa Brava FM 🇻🇪
+#EXTINF:-1 tvg-id="CaracasSalsaBrava.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/7f3vaiM.jpeg" ,2023 | Caracas. Salsa Brava FM 🇻🇪
 https://stream.zeno.fm/fq0c9ohszctuv
 
-#EXTINF:-1 tvg-id="ShowdePina.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/KWvXG9z.jpeg" ,2004 | El Show de Piña 🇻🇪
+#EXTINF:-1 tvg-id="ShowdePina.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/KWvXG9z.jpeg" ,2024 | El Show de Piña 🇻🇪
 https://stream.zeno.fm/mvu8ut5f2k0uv
 
-#EXTINF:-1 tvg-id="UniónRadio.ve" group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/48s2CFcwQF.png" ,2005 | Unión Radio 🇻🇪
+#EXTINF:-1 tvg-id="UniónRadio.ve" group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/48s2CFcwQF.png" ,2025 | Unión Radio 🇻🇪
 https://acp4.lorini.net/proxy/ur2080?mp=/stream
 
-#EXTINF:-1 tvg-id="RadioRumbos" group-title="Radio"  tvg-logo="http://imgfz.com/i/FuPXD2W.jpeg" ,2006 | Radio Rumbos | 670 AM 🇻🇪
+#EXTINF:-1 tvg-id="RadioRumbos" group-title="Radio"  tvg-logo="http://imgfz.com/i/FuPXD2W.jpeg" ,2026 | Radio Rumbos | 670 AM 🇻🇪
 https://stream.zeno.fm/c3q3w8zfe18uv
 
-#EXTINF:-1 tvg-id="YVKEMundial550AM.ve" group-title="Radio" tvg-logo="http://imgfz.com/i/FMGnWim.jpeg" ,2005 | YVKE Mundial 550 AM 🇻🇪
+#EXTINF:-1 tvg-id="YVKEMundial550AM.ve" group-title="Radio" tvg-logo="http://imgfz.com/i/FMGnWim.jpeg" ,2027 | YVKE Mundial 550 AM 🇻🇪
 https://stream.zeno.fm/xnr57ddncc9uv
 
-#EXTINF:-1 tvg-id="MasNetworkB.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/gYhKytL.jpeg" ,2000 | Mas Network Barquisimeto 🇻🇪
+#EXTINF:-1 tvg-id="MasNetworkB.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/gYhKytL.jpeg" ,2028 | Mas Network Barquisimeto 🇻🇪
 https://stream.zeno.fm/fuf1th0sbq8uv
 
-#EXTINF:-1 tvg-id="OtilcaRadio.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/G8AOsBT.jpeg" ,2002 | Otilca Radio 🇻🇪
+#EXTINF:-1 tvg-id="OtilcaRadio.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/G8AOsBT.jpeg" ,2029 | Otilca Radio 🇻🇪
 https://stream.zeno.fm/tgzxvph1txhvv
 
-#EXTINF:-1 tvg-id="RadioCervantes.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/uHyAVzb.jpeg" ,2002 | Radio Cervantes GHC 🇻🇪
+#EXTINF:-1 tvg-id="RadioCervantes.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/uHyAVzb.jpeg" ,2030 | Radio Cervantes GHC 🇻🇪
 https://stream.zeno.fm/on7vak2ujdpvv
 
-#EXTINF:-1 tvg-id="kuervoNest.us" group-title="Radio"  tvg-logo="http://imgfz.com/i/ankJgYr.jpeg" ,2000 | Kuervo Nest 🇺🇸
+#EXTINF:-1 tvg-id="kuervoNest.us" group-title="Radio"  tvg-logo="http://imgfz.com/i/ankJgYr.jpeg" ,2031 | Kuervo Nest 🇺🇸
 https://stream.zeno.fm/4velzb3ulf7uv
 
-#EXTINF:-1 tvg-id="Folclorllanero.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/FkhU4d9.jpeg" ,2006 | Radio Folclorllanero |  🇻🇪
+#EXTINF:-1 tvg-id="Folclorllanero.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/FkhU4d9.jpeg" ,2032 | Radio Folclorllanero |  🇻🇪
 https://stream.zeno.fm/hcvjvmprjveuv
 
-#EXTINF:-1 tvg-id="LaBuenisima.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/ck03G7p.jpeg" ,2006 | La FM Buenisima | 98.5 FM | 🇻🇪
+#EXTINF:-1 tvg-id="LaBuenisima.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/ck03G7p.jpeg" ,2033 | La FM Buenisima | 98.5 FM | 🇻🇪
 https://stream.zeno.fm/5t866rywrzzuv
 
-#EXTINF:-1 tvg-id="vallenatoStereo" group-title="Radio"  tvg-logo="http://imgfz.com/i/UhpsO2X.jpeg" ,2001 | Vallenato Stereo 🇻🇪
+#EXTINF:-1 tvg-id="vallenatoStereo" group-title="Radio"  tvg-logo="http://imgfz.com/i/UhpsO2X.jpeg" ,203 | Vallenato Stereo 🇻🇪
 https://stream.zeno.fm/08qxk717fd0uv
 
-#EXTINF:-1 tvg-id="clásicos vallenatos.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/IapYkxZ.jpeg" ,2001 | Clásicos del Vallenato 🇻🇪
+#EXTINF:-1 tvg-id="clásicos vallenatos.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/IapYkxZ.jpeg" ,2035 | Clásicos del Vallenato 🇻🇪
 https://stream.zeno.fm/y2nsu1p6ynhvv
 
 
