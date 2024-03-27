@@ -672,6 +672,9 @@ https://stream.zeno.fm/08qxk717fd0uv
 #EXTINF:-1 tvg-id="CardelalStereo.co" group-title="Radio"  tvg-logo="https://cdn.colombia.com/canales/cardenal-stereo-145.jpg" ,2036 | Cardenal Stereo | 94.7 FM 🇻🇪
 http://198.27.78.145:8086/stream
 
+#EXTINF:-1 tvg-id="RadioImpacto.co" group-title="Radio"  tvg-logo="https://cdn.onlineradiobox.com/img/l/5/84885.v5.png" ,2037 | Radio Impacto Popular | 1.280 AM 🇻🇪
+https://stream-153.zeno.fm/bhw1fti611lvv?zs=eCkgg54MTYKeWalRccZjNg
+
 #EXTINF:-1 tvg-id="clásicos vallenatos.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/IapYkxZ.jpeg" ,2038 | Clásicos del Vallenato 🇻🇪
 https://stream.zeno.fm/y2nsu1p6ynhvv
 
