@@ -666,13 +666,15 @@ https://stream.zeno.fm/hcvjvmprjveuv
 #EXTINF:-1 tvg-id="LaBuenisima.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/ck03G7p.jpeg" ,2034 | La FM Buenisima | 98.5 FM | 🇻🇪
 https://stream.zeno.fm/5t866rywrzzuv
 
-#EXTINF:-1 tvg-id="LaBuenisima.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/ck03G7p.jpeg" ,2035 | Cardenal Stereo | 94.7 FM | 🇨🇴
+#EXTINF:-1 tvg-id="vallenatoStereo" group-title="Radio"  tvg-logo="http://imgfz.com/i/UhpsO2X.jpeg" ,2035 | Vallenato Stereo 🇻🇪
+https://stream.zeno.fm/08qxk717fd0uv
 
-#EXTINF:-1 tvg-id="CardelalStereo.co" group-title="Radio"  tvg-logo="https://cdn.colombia.com/canales/cardenal-stereo-145.jpg" ,2035 | Vallenato Stereo 🇻🇪
+#EXTINF:-1 tvg-id="CardelalStereo.co" group-title="Radio"  tvg-logo="https://cdn.colombia.com/canales/cardenal-stereo-145.jpg" ,2036 | Cardenal Stereo 🇻🇪
 http://198.27.78.145:8086/stream
 
-#EXTINF:-1 tvg-id="clásicos vallenatos.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/IapYkxZ.jpeg" ,2037 | Clásicos del Vallenato 🇻🇪
+#EXTINF:-1 tvg-id="clásicos vallenatos.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/IapYkxZ.jpeg" ,2038 | Clásicos del Vallenato 🇻🇪
 https://stream.zeno.fm/y2nsu1p6ynhvv
+
 
 
 
