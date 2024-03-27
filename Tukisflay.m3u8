@@ -669,7 +669,7 @@ https://stream.zeno.fm/5t866rywrzzuv
 #EXTINF:-1 tvg-id="vallenatoStereo" group-title="Radio"  tvg-logo="http://imgfz.com/i/UhpsO2X.jpeg" ,2035 | Vallenato Stereo 🇻🇪
 https://stream.zeno.fm/08qxk717fd0uv
 
-#EXTINF:-1 tvg-id="CardelalStereo.co" group-title="Radio"  tvg-logo="https://cdn.colombia.com/canales/cardenal-stereo-145.jpg" ,2036 | Cardenal Stereo 🇻🇪
+#EXTINF:-1 tvg-id="CardelalStereo.co" group-title="Radio"  tvg-logo="https://cdn.colombia.com/canales/cardenal-stereo-145.jpg" ,2036 | Cardenal Stereo | 94.7 FM 🇻🇪
 http://198.27.78.145:8086/stream
 
 #EXTINF:-1 tvg-id="clásicos vallenatos.ve" group-title="Radio"  tvg-logo="http://imgfz.com/i/IapYkxZ.jpeg" ,2038 | Clásicos del Vallenato 🇻🇪
