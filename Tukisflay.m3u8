@@ -525,14 +525,8 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/589323
 #EXTINF:-1 tvg-id="SPO2HD" tvg-name="Directv Sports 2 (OP2)" tvg-logo="https://1.bp.blogspot.com/-01KlDKxKIUw/YJg4FfcFg1I/AAAAAAAAFiE/sDjy6gQBuywYBYjC-9sung9lziT0xAB8QCLcBGAsYHQ/s1920/directv%2Bsports%2B2%252C%2Bdirectv%2Bsports%2B1%252C%2Bdirectv%2Bsports%252B%2Bargentina%252C%2Bver%2Btv%2Bargentina%2Ben%2Bvivo%2Bonline.jpg" group-title="Deportes",Directv Sports 2 
 http://dns.k4livetv.com:80/Emma2023/Emma2023/589321
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/wgvt7X1.png",1610 | DIRECTV Sports 
-http://redima.pro:8880/TISUCR/TISUCR/575
-
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/U4iVXxN.png",1612 | DIRECTV Sports 2 
 http://redima.pro:8880/TISUCR/TISUCR/576
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/6qWpahs.png",1614 | DIRECTV Sports + 
-http://redima.pro:8880/TISUCR/TISUCR/685
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/xsmcaKR.png",1621 | ESPN HD
 http://dns.k4livetv.com:80/Emma2023/Emma2023/602640
