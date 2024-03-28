@@ -543,17 +543,14 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/602823
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/Xf7qCRS.png",1623 | ESPN 3 HD
 http://dns.k4livetv.com:80/Emma2023/Emma2023/602587
 
-#EXTINF:-1 tvg-id="ESPN4" tvg-name="ARD10: ESPN 4 (OP1)" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPad5lAi_j81fuUSP11WU9TcTCt0_d14v1GAKNCmydHhm.png" group-title="Deportes",1624 | ESPN 4
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="ARD10: ESPN 4 (OP1)" tvg-logo="http://imgfz.com/i/40FawEe.png" group-title="Deportes",1624 | ESPN 4
 http://dns.k4livetv.com:80/Emma2023/Emma2023/602839
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/Zs1eoix.png",1625 | ESPN 5 HD
-http://201.222.44.220:4227/play/a03w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA ARGENTINA: ESPN PREMIUM" tvg-logo="https://th.bing.com/th/id/OIP.7ImEF92rhP5Q_-S32VsezAAAAA?rs=1&pid=ImgDetMain" group-title="Deportes",1625 | ESPN Premium 
+http://pro.boxdigital.org:8080/pablogonzalez9/PWHWqtRC8vEA/181740
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/2VWK5pf.png",1626 | ESPN 6 HD
-http://201.222.44.220:4227/play/a04r/index.m3u8
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/vI62yJ3.png",1627 | ESPN 7 HD
-http://201.222.44.220:4227/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD: ESPN DEPORTES" tvg-logo="https://th.bing.com/th/id/R.847ec7f469b724c315938fb305c84707?rik=2FYlrUl5ZwpjnA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-lk2x8PGOAes%2fUUyxrsChO_I%2fAAAAAAAABMM%2fBzepLmcdwNc%2fs1600%2fespn-deportes.jpg&ehk=p6pIuzRj8aKEBVQ37esZcGqqZQ1Obd%2bXQX%2bahlbtcRA%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTES ʜᴅ",1626 | ESPN DEPORTES
+http://pro.boxdigital.org:8080/pablogonzalez9/PWHWqtRC8vEA/181852
 
 #EXTINF:-1 tvg-id="foxsports.mx" tvg-name="LAP128: FOX SPORTS 1 (OP2)" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjgKvjvMNXL3f3BtQoHI07uw6SjEdOO7klO1TUYwxFK-itWtYPG1fHX79FVMO43u2EK384A7GVk35AyXm0-yBNTw.png" group-title="Deportes",1628 | FOX SPORTS 1
 http://dns.k4livetv.com:80/Emma2023/Emma2023/602644
