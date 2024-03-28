@@ -540,7 +540,7 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/602587
 #EXTINF:-1 tvg-id="ESPN4" tvg-name="ARD10: ESPN 4 (OP1)" tvg-logo="http://imgfz.com/i/40FawEe.png" group-title="Deportes",1624 | ESPN 4
 http://dns.k4livetv.com:80/Emma2023/Emma2023/602839
 
-#EXTINF:-1 tvg-id="" tvg-name="LIGA ARGENTINA: ESPN PREMIUM" tvg-logo="https://th.bing.com/th/id/OIP.7ImEF92rhP5Q_-S32VsezAAAAA?rs=1&pid=ImgDetMain" group-title="Deportes",1625 | ESPN Premium 
+#EXTINF:-1 tvg-id="" tvg-name="LIGA ARGENTINA: ESPN PREMIUM" tvg-logo="http://imgfz.com/i/VflxX6c.png" group-title="Deportes",1625 | ESPN Premium 
 http://pro.boxdigital.org:8080/pablogonzalez9/PWHWqtRC8vEA/181740
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP HD: ESPN DEPORTES" tvg-logo="https://th.bing.com/th/id/R.847ec7f469b724c315938fb305c84707?rik=2FYlrUl5ZwpjnA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-lk2x8PGOAes%2fUUyxrsChO_I%2fAAAAAAAABMM%2fBzepLmcdwNc%2fs1600%2fespn-deportes.jpg&ehk=p6pIuzRj8aKEBVQ37esZcGqqZQ1Obd%2bXQX%2bahlbtcRA%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTES ʜᴅ",1626 | ESPN DEPORTES
@@ -558,7 +558,7 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/602562
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVxFgCqkV_CmLZUi2nGl5BvGCJ5fvPJlf63Fl8rJXRozP6w6i-dxFK9mm0jMW4yVgg2mhen9WvMGh4Kzo_jvBKu.png" group-title="Deportes",1634 | NBA TV
 http://dns.k4livetv.com:80/Emma2023/Emma2023/585732
 
-#EXTINF:-1 tvg-id="" tvg-name="GOLTV (SPANISH)" tvg-logo="http://dnslivetv.online:80/images/3u7c_sCDIMm96zrRTnufqtyu6eI7jk70EKoifsbgT4QmVBhJ-Abaj2EAx3RIZwKTDdfSM66zThVvfl39Qabc5UD0y1pyUZ5cGM7jC6RD9zXINF3WSdtjh7ZAijCWhaaJ.png" group-title="Deportes",1635 |GOLTV (SPANISH)
+#EXTINF:-1 tvg-id="" tvg-name="GOLTV (SPANISH)" tvg-logo="http://imgfz.com/i/LeBRjxm.jpeg" group-title="Deportes",1635 | GOLTV (SPANISH)
 http://dns.k4livetv.com:80/Emma2023/Emma2023/585611
 
 #EXTINF:-1 tvg-id="" tvg-name="MLB_NET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUhlG0gIF9K-YW0CFn1q9e7Vlqo_oXzQt6rjFXGVese7giq02Yz_L3yGoJYDCgcM2jvs&usqp=CAU" group-title="Deportes",1636 | MLB_NET
