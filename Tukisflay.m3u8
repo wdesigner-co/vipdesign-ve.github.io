@@ -519,6 +519,12 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/1039690
 #EXTINF:-1 tvg-id="" tvg-name="Salvados por la campana 24/7" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lG8owi6s5Cy6rYMLuUGjyyxWPrL.jpg" group-title="Cine y Series",1524 | Salvados por la campana 24/7
 http://dns.k4livetv.com:80/Emma2023/Emma2023/1039680
 
+#EXTINF:-1 tvg-id="SPOCOHD" tvg-name="Directv Sports Colombia (OP1)" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPaRFXiD-LoCypoWJswM3RwgC8kFZcsWG-PnoGu3HcYrL.png" group-title="Deportes",Directv Sports Colombia
+http://dns.k4livetv.com:80/Emma2023/Emma2023/589323
+
+#EXTINF:-1 tvg-id="SPO2HD" tvg-name="Directv Sports 2 (OP2)" tvg-logo="https://1.bp.blogspot.com/-01KlDKxKIUw/YJg4FfcFg1I/AAAAAAAAFiE/sDjy6gQBuywYBYjC-9sung9lziT0xAB8QCLcBGAsYHQ/s1920/directv%2Bsports%2B2%252C%2Bdirectv%2Bsports%2B1%252C%2Bdirectv%2Bsports%252B%2Bargentina%252C%2Bver%2Btv%2Bargentina%2Ben%2Bvivo%2Bonline.jpg" group-title="Deportes",Directv Sports 2 
+http://dns.k4livetv.com:80/Emma2023/Emma2023/589321
+
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/wgvt7X1.png",1610 | DIRECTV Sports 
 http://redima.pro:8880/TISUCR/TISUCR/575
 
@@ -556,7 +562,7 @@ http://dns.k4livetv.com:80/Emma2023/Emma2023/602644
 http://dns.k4livetv.com:80/Emma2023/Emma2023/602712
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/uXlo8fI.png",1633 | Win Sports HD
-http://dns.k4livetv.com:80/Emma2023/Emma2023/590947
+http://dns.k4livetv.com:80/Emma2023/Emma2023/602562
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVxFgCqkV_CmLZUi2nGl5BvGCJ5fvPJlf63Fl8rJXRozP6w6i-dxFK9mm0jMW4yVgg2mhen9WvMGh4Kzo_jvBKu.png" group-title="Deportes",1634 | NBA TV
 http://dns.k4livetv.com:80/Emma2023/Emma2023/585732
