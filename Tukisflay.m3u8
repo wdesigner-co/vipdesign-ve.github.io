@@ -549,6 +549,12 @@ http://201.222.44.220:4227/play/a04r/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/vI62yJ3.png",1627 | ESPN 7 HD
 http://201.222.44.220:4227/play/a01e/index.m3u8
 
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="LAP128: FOX SPORTS 1 (OP2)" tvg-logo="http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjgKvjvMNXL3f3BtQoHI07uw6SjEdOO7klO1TUYwxFK-itWtYPG1fHX79FVMO43u2EK384A7GVk35AyXm0-yBNTw.png" group-title="Deportes",1628 | FOX SPORTS 1
+http://dns.k4livetv.com:80/Emma2023/Emma2023/602644
+
+#EXTINF:-1 tvg-id="FS2" tvg-name="LAP196: FOX SPORTS 2 (OP1)" tvg-logo="http://dnslivetv.online:80/images/NQ3NASuhfDgILO0iDoSCa4hEAJqVG8BBAjnzQxvpY6ASysa60p7St5MW0sSQ90idtopNcjp2P3DmOZjZn34Ey_y2crg8w9bY6eaUQM5rn90KFKyeQuYFKmd83q6SJTxBQn9FeNdGh0F_5Ts59Jo6qK_6mzv4cT8hyYO0KfOoMYMlp67YTXpTocvVz5wfSe0u.png" group-title="Deportes",1629 | FOX SPORTS 2
+http://dns.k4livetv.com:80/Emma2023/Emma2023/602712
+
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://imgfz.com/i/uXlo8fI.png",1633 | Win Sports HD
 http://dns.k4livetv.com:80/Emma2023/Emma2023/590947
 
