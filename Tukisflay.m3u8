@@ -61,43 +61,43 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rcnhd.co" group-title="Colombia" tvg-logo="http://imgfz.com/i/Mb7xo6K.jpeg",130 | RCN
-http://dns.k4livetv.com:80/Emma2023/Emma2023/590923
+http://dns.k4livetv.com:80/Emma2023/Emma2023/602760
 
 #EXTINF:-1 tvg-id="CNC.co" group-title="Colombia" tvg-logo="https://canalcncmedellin.com/wp-content/uploads/2023/10/Logo-Footer.png" ,131 | Canal CNC 
 https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="caracolhd.co" group-title="Colombia" tvg-logo="http://imgfz.com/i/BWE7znQ.png",132 | Caracol
-http://dns.k4livetv.com:80/Emma2023/Emma2023/590890
+http://dns.k4livetv.com:80/Emma2023/Emma2023/602817
 
 #EXTINF:-1 tvg-id="CITYTVB" group-title="Colombia" tvg-logo="http://imgfz.com/i/RH42Af7.jpeg",133 | City TV 
-http://dns.k4livetv.com:80/Emma2023/Emma2023/590905
+http://pro.boxdigital.org:8080/pablogonzalez9/PWHWqtRC8vEA/181765
 
 #EXTINF:-1 tvg-id="CARAI" group-title="Colombia" tvg-logo="http://imgfz.com/i/UNShE40.png",134 | Caracol Internacional 
-http://dns.k4livetv.com:80/Emma2023/Emma2023/590893
+http://pro.boxdigital.org:8080/pablogonzalez9/PWHWqtRC8vEA/181764
 
 #EXTINF:-1 tvg-id="RCNNuestraTele" group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/320px-RCN_Nuestra_Tele_logo.svg.png",135 | RCN Nuestra Tele
 http://168.227.22.18:1935/live/mobile-072/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CAD1" group-title="Colombia" tvg-logo="http://imgfz.com/i/VMTgcLB.png",136 | Canal Uno 
-http://dns.k4livetv.com:80/Emma2023/Emma2023/590902
+http://pro.boxdigital.org:8080/pablogonzalez9/PWHWqtRC8vEA/181759
 
 #EXTINF:-1 tvg-id="SENAL" group-title="Colombia" tvg-logo="http://imgfz.com/i/KiOg6SH.jpeg",137 | Señal Colombia 
-http://dns.k4livetv.com:80/Emma2023/Emma2023/590932
+http://pro.boxdigital.org:8080/pablogonzalez9/PWHWqtRC8vEA/101148
 
 #EXTINF:-1 tvg-id="CANALIN" group-title="Colombia" tvg-logo="http://imgfz.com/i/CaqgzZO.png",138 | Canal Institucional 
 http://dns.k4livetv.com:80/Emma2023/Emma2023/590959
 
 #EXTINF:-1 tvg-id="TELEAN" group-title="Colombia" tvg-logo="http://imgfz.com/i/Xd5OS1s.png" ,140 | Teleantioquia 
-http://dns.k4livetv.com:80/Emma2023/Emma2023/590935
+http://pro.boxdigital.org:8080/pablogonzalez9/PWHWqtRC8vEA/181774
 
 #EXTINF:-1 tvg-id="Telepacífico" group-title="Colombia"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Telepac%C3%ADfico.png/125px-Telepac%C3%ADfico.png" ,141 | Telepacífico 
-http://45.177.53.7:8000/play/a04o/index.m3u8
+http://pro.boxdigital.org:8080/pablogonzalez9/PWHWqtRC8vEA/181785
 
 #EXTINF:-1 tvg-id="TELECAR" group-title="Colombia" tvg-logo="http://imgfz.com/i/BViR9Oj.jpeg" ,142 | TeleCaribe
-http://dns.k4livetv.com:80/Emma2023/Emma2023/590941
+http://pro.boxdigital.org:8080/pablogonzalez9/PWHWqtRC8vEA/181775
 
 #EXTINF:-1 tvg-id="CAPITAL" group-title="Colombia" tvg-logo="http://imgfz.com/i/BiJreZd.png" ,143 | Canal Capital 
-http://dns.k4livetv.com:80/Emma2023/Emma2023/590956
+http://pro.boxdigital.org:8080/pablogonzalez9/PWHWqtRC8vEA/181761
 
 #EXTINF:-1 tvg-id="Telecafé" group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/200px-Telecaf%C3%A9_logo.svg.png" ,144  | Telecafé 
 http://45.177.53.7:8000/play/a04p/index.m3u8
